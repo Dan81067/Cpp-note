@@ -6,3 +6,4 @@ delete指针
 释放堆空间后，p成了"空指针"。如果我们在delete p后没有进行指针p的制空（p=NULL)的话，其实指针p这时会成为野指针，为了使用的安全，我们一般在delete p之后还会加上p=NULL这一语句。
 
 原帖链接https://blog.csdn.net/ai_yue/article/details/80769243
+        https://blog.csdn.net/m0_37901643/article/details/72878034
