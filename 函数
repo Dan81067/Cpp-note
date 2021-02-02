@@ -18,3 +18,7 @@ T&& move(T& val);
 4      a = move(b);
 5      b = move(tmp);
 6 }
+
+
+
+C++中remove  https://www.cnblogs.com/warmbeast/p/5325874.html
