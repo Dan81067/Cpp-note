@@ -1,1 +1,4 @@
 https://blog.csdn.net/qq_30366449/article/details/77126788
+可以通过使用 * vector.begin() 或 * vector.end() 来获得 vector 中第一个或最后一个的值；
+也可以直接使用 vector.front() 、vector.back() 来得到 vector 首尾的值。
+ 
